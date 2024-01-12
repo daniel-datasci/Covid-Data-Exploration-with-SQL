@@ -27,10 +27,3 @@ According to the insights derived from the covid data :
 * Europe had the highest total cases per continrent, followed by Asia, North merica, and South America.
 
 * Europe had the total number of deaths recorded as per continent, followed by North America, Asia, and South America.
-
-
-# Dashboard Report
-
-Here is a [Tableau](https://public.tableau.com/app/profile/chisom.promise/viz/Covid19-DataExplorationUsingSQL/Covid19Dashboard?publish=yes) dashboard report that I built to further to visualize the insights and trends derived from this analysis.
-
-![Dashboard](https://github.com/Chisomnwa/Covid-Data-Exploration-with-SQL/blob/main/Covid-19%20Data%20Exploration%20Dashboard.png)
